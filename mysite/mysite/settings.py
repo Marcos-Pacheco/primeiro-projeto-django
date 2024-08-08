@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 from os import getenv as env
 from os import path
 
-# carrega varáveis env
+# carrega variáveis env
 load_dotenv()
 
 
